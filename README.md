@@ -1,2 +1,2 @@
 # ProjetoDilan
-# Exemplo de uso do GIT
+# Exemplo de uso do GIT com desktop
